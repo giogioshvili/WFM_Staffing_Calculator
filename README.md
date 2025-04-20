@@ -8,10 +8,7 @@ No requirements needed to use this calculator. Simply open the link and tool wil
 
 Keywords: WFM, Estimation of HC, Required HC Calculation.
 
-Packages: shiny
-          shinythemes
-          plotly
-          bslib
+Packages: shiny, shinythemes, plotly, bslib.
 
 **Link to the Webpage:** 
 https://giorgigioshvili.shinyapps.io/StaffingCalculator/
