@@ -12,3 +12,6 @@ Packages: shiny, shinythemes, plotly, bslib.
 
 **Link to the Webpage:** 
 https://giorgigioshvili.shinyapps.io/StaffingCalculator/
+
+## License
+All Rights Reserved. The code in this repository is for viewing only. Copying, modifying, or distributing the code without permission is strictly prohibited. Contact [g.gioshvili1@gmail.com] for inquiries.
